@@ -1,0 +1,78 @@
+#main {
+  /*font-family: 'Libre Baskerville', serif;*/
+  /*background-color:  #337ab7;*/
+}
+
+#title {
+	text-align: center;
+	font-weight: bold;
+}
+/*User Story #8*/
+#image  {
+  max-width: 100%;
+  width: 100%;
+  display: block;
+  height: auto;
+  opacity: 0.75;
+  border-radius: 4px;
+}
+
+#img-caption {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	margin-right: 30px;
+}
+
+li {
+	margin: 20px;
+}
+
+#tribute-info {
+	margin-top: -20px;
+	font-size: 1.5em;
+}
+
+#footer {
+	position: ;
+	text-align: right;
+	background-color: gray;
+	color: white;
+    margin-top: -20px;
+    font-family: "Font Awesome 5 Brands";
+}
+
+.fab {
+	color: white;
+}
+
+.fab:hover {
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+#link-fcc {
+	text-align:center;
+	float: left;
+}
+
+#link-github {		
+	text-align: right;
+}
+
+#wiki-div {
+	text-align: center;
+	font-size: 1.2em;
+	margin: 20px;
+}
+
+#tribute-link {
+	text-align: center;
+	font-size: 1.1em;
+}
