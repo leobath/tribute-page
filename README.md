@@ -1,2 +1,2 @@
 # tribute-page
-Tribute page project for ffc
+Tribute page project for fcc
